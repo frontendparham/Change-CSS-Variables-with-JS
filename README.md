@@ -13,7 +13,7 @@ In this project I Change the CSS Variables with Javascript
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://frontendparham.github.io/change-css-variables-with-js/)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Change-CSS-Variables-with-JS/)
 
 ## My process
 
